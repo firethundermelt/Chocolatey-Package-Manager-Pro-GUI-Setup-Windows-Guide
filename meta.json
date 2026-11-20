@@ -1,0 +1,29 @@
+{
+  "repo": "chocolatey-package-manager-pro-gui-setup-windows-guide",
+  "product": "Chocolatey Package Manager Pro GUI Setup Windows Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "chocolatey-manager-gui-windows",
+    "chocolatey-manager-gui-windows-desktop",
+    "chocolatey-manager-gui-windows-release",
+    "chocolatey-manager-gui-windows-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Chocolatey Package Manager Pro GUI Setup Windows Guide"
+}
